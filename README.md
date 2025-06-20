@@ -35,14 +35,16 @@ Bem-vindo ao **City Bank**, um sistema bancário simples e interativo feito em J
 ```bash
 git clone https://github.com/seu-usuario/city-bank.git
 ```
+---
+
 🧑‍💻 Autor
 
 Desenvolvido por Pedro De Almeida Peixoto, estudante de Engenharia de Software apaixonado por desenvolvimento e desafios práticos.
 
 📫 Contato:
 pedropeixotovz@email.com
-
-
+Linkedin[https://linkedin.com/in/Peixotim]
+---
 ⭐ Considerações
 
 Se esse projeto te ajudou de alguma forma ou se você curtiu a ideia, considere dar uma estrela ⭐ no repositório!
