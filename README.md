@@ -43,7 +43,7 @@ Desenvolvido por Pedro De Almeida Peixoto, estudante de Engenharia de Software a
 
 📫 Contato:
 pedropeixotovz@email.com
-Linkedin[https://linkedin.com/in/Peixotim]
+linkedin.com/in/Peixotim
 ---
 ⭐ Considerações
 
